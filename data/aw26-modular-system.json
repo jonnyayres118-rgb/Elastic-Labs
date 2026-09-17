@@ -1,0 +1,20 @@
+{
+  "collection": "ELASTIC LABS AW26 / THE SENTINEL MODULAR SYSTEM",
+  "positioning": "One system. Many forms. Built for a more human future.",
+  "products": [
+    {"number":"01","name":"HELMET","sku":"EL-AW26-HLM-01","price":650,"copy":"Protection reimagined. Ready for what's next."},
+    {"number":"02","name":"SHOULDER ARMOUR","sku":"EL-AW26-SHD-01","price":450,"copy":"Modular protection. Maximum expression."},
+    {"number":"03","name":"CHEST HARNESS","sku":"EL-AW26-CHS-01","price":550,"copy":"Structure in motion. A stronger you."},
+    {"number":"04","name":"OUTER SHELL","sku":"EL-AW26-SHL-01","price":1450,"copy":"Adaptive layering. All conditions."},
+    {"number":"05","name":"GLOVES","sku":"EL-AW26-GLV-01","price":275,"copy":"Tactile control. Built to endure."},
+    {"number":"06","name":"ARM GUARDS","sku":"EL-AW26-ARM-01","price":350,"copy":"Flexible defence. Total freedom."},
+    {"number":"07","name":"KNEE PADS","sku":"EL-AW26-KNE-01","price":295,"copy":"Impact ready. Move further."},
+    {"number":"08","name":"SHIN GUARDS","sku":"EL-AW26-SHN-01","price":375,"copy":"Ground control. Higher terrain."},
+    {"number":"09","name":"UTILITY BELT","sku":"EL-AW26-BLT-01","price":320,"copy":"Carry more. Go further."},
+    {"number":"10","name":"CARGO TROUSERS","sku":"EL-AW26-TRS-01","price":725,"copy":"Utility reimagined. Freedom of movement."},
+    {"number":"11","name":"BOOTS","sku":"EL-AW26-BOT-01","price":650,"copy":"Engineered traction. Built for what's next."},
+    {"number":"12","name":"BACKPACK","sku":"EL-AW26-BAG-01","price":580,"copy":"Expand your world. Modular by design."},
+    {"number":"13","name":"NECK GAITER","sku":"EL-AW26-NCK-01","price":195,"copy":"Cover. Adapt. Breathe. All conditions."},
+    {"number":"14","name":"MODULAR DRAPE","sku":"EL-AW26-DRP-01","price":420,"copy":"Multiple configurations. One identity."}
+  ]
+}
